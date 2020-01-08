@@ -1,4 +1,3 @@
-// ******** Dedicated to respected Mohammad Mahmudur Rahman Sir ******** //
 #include<bits/stdc++.h>
 using namespace std;
 
